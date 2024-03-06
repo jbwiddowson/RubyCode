@@ -1,6 +1,0 @@
-#!/user/bin/ruby
-
-require 'net/ssh'
-require 'net/ping' 
-
-if ARGV
